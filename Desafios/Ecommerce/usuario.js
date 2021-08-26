@@ -32,8 +32,8 @@ class Usuario {
    
 };
 
-//console.log(cadastroUsuario)
-//console.log("Cadastro realizado com sucesso")
+console.log(cadastroUsuario)
+console.log("Cadastro realizado com sucesso")
 
 
 const loginUsuario = {
