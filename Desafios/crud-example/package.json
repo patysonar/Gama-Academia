@@ -1,0 +1,17 @@
+{
+  "name": "crud-example",
+  "version": "1.0.0",
+
+  "description": "Projeto Luiza Code carolSN",
+  "main": "index.js",
+ 
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "node index.js"
+  },
+
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
